@@ -25,5 +25,3 @@ const eventSchema = new Schema({
     }
 })
 module.exports=mongoose.model('Event', eventSchema)
-
-//academind lektion 5 mitte 
